@@ -1,6 +1,6 @@
 # P5VJ
 
-A browser-based generative VJ (video jockeying) application built with p5.js -- live, interactive visuals controlled in real tim, running entirely in the browser.
+A browser-based generative VJ (video jockeying) application built with p5.js -- live, interactive visuals controlled in real time, running entirely in the browser.
 
 ## About
 
